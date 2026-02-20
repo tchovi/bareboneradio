@@ -12,4 +12,4 @@ Upload and organize music
 Create playlists
 Schedule playlists to time slots
 Automatically broadcast via Liquidsoap → Icecast
-Manage everything through a simple drag-and-drop web interface
+Manage everything through a simple drag-and-drop web interface. It is a bare-bones internet radio automation engine.
