@@ -1,4 +1,4 @@
-LiteRadio Automation is a lightweight web-based internet radio automation system designed to run efficiently on low-resource VPS environments:
+Barebone Radio Automation is a lightweight web-based internet radio automation system designed to run efficiently on low-resource VPS environments:
 
 512MB RAM
 900MHz CPU
